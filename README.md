@@ -9,3 +9,7 @@ npm install
 npm run build
 npm run start
 ```
+
+## Refrence
+
+- https://webpack.js.org/guides/getting-started/#basic-setup
