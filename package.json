@@ -1,0 +1,23 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "webpack demo For learning",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikram2327/webpack-demo.git"
+  },
+  "keywords": [
+    "hello",
+    "webpack"
+  ],
+  "author": "Vikram Pratap Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vikram2327/webpack-demo/issues"
+  },
+  "homepage": "https://github.com/vikram2327/webpack-demo#readme"
+}
